@@ -2,10 +2,15 @@
   "name": "love-you-heart",
   "version": "1.0.0",
   "description": "I love her",
+  "main": "server.js",
   "scripts": {
-    "start": "npx serve .",
-    "dev": "npx serve ."
+    "start": "node server.js"
   },
-  "keywords": ["canvas", "animation", "heart", "particles"],
+  "keywords": [
+    "canvas",
+    "animation",
+    "heart",
+    "particles"
+  ],
   "license": "MIT"
 }
