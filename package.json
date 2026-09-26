@@ -1,7 +1,7 @@
 {
   "name": "love-you-heart",
   "version": "1.0.0",
-  "description": "I love her
+  "description": "I love her"
   "scripts": {
     "start": "npx serve .",
     "dev": "npx serve ."
